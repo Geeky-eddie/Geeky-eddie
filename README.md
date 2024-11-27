@@ -1,3 +1,5 @@
+<div><img align="center" alt="Coding" src="[https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPritamSarbajna%2FCoding-platforms-Solution&psig=AOvVaw3RymADeaUnYfTtDFcHhD0A&ust=1732833751493000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICs9YnL_YkDFQAAAAAdAAAAABAJ)"></div>
+
 <h1 align="center">Hi 👋, I'm Eddie</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
@@ -15,7 +17,7 @@
 
 - 📄 Know about my experiences [geekyeddietech.com](geekyeddietech.com)
 
-  <div> <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ"></div>
+  <div> <img align="center" alt="Coding" width="600" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ"></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
