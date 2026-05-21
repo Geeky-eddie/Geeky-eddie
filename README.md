@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://github.com/ike-devv)
+[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://github.com/geeky-eddie)
 
 
 <h1 align="center">Hi 👋, I'm Eddie</h1>
