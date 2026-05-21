@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/ikedevv" target="blank"><img src="https://img.shields.io/twitter/follow/ikedevv?logo=twitter&style=for-the-badge" alt="ikedevv" /></a> </p>
 
-- 🌱 I’m currently learning **Foundations in cybersecurity**
+- 🌱 I’m currently learning **Network Security in cybersecurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ike-devv](https://github.com/ike-devv)
 
-- 💬 Ask me about **React js**
+- 💬 Ask me about **Software development**
 
-- 📫 How to reach me **ikedevv@email.com**
+- 📫 How to reach me **ikedev@gmail.com**
 
 - 📄 Know about my experiences [ikedevvtech.com](ikedevvtech.com)
 
